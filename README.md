@@ -57,16 +57,6 @@ Built using **n8n**, **Google Gemini**, **PostgreSQL**, **Slack**, **Gmail**, an
 <p align="center">
 <img src="assets/tech_stack.png" width="80%">
 </p>
-
-| Category | Technology |
-|----------|------------|
-| Workflow Automation | n8n |
-| Artificial Intelligence | Google Gemini |
-| Database | PostgreSQL |
-| Communication | Slack |
-| Email | Gmail |
-| Programming | JavaScript |
-
 ---
 
 # 🔄 Complete Workflow
@@ -151,7 +141,7 @@ cd Support-Nexus
 
 ### Import Workflows
 
-Import all workflow JSON files into your n8n instance.
+Import the workflow JSON file into your n8n instance.
 
 Configure the required credentials:
 
@@ -192,16 +182,6 @@ Run the workflows.
 **B.Tech Artificial Intelligence & Machine Learning**
 
 Capstone Project • IIT Jammu Internship
-
----
-
-# 🙏 Acknowledgements
-
-This project was developed as my **Capstone Project** during my internship at **IIT Jammu**.
-
-I sincerely thank **Parmveer** for the continuous guidance, mentorship, and encouragement throughout this journey. His support and insights helped me explore workflow automation, AI integration, and real-world software development.
-
-I am also grateful to **IIT Jammu** for providing an excellent learning environment and the opportunity to work on this project.
 
 ---
 
