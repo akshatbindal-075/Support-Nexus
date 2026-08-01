@@ -2,7 +2,7 @@
   <img src="assets/Banner.png" alt="Support Nexus Banner" width="100%">
 </p>
 
-<h1 align="center">🎫 Support Nexus</h1>
+<h1 align="center"><img src="assets/logo.png" width="120">Support Nexus</h1>
 
 <p align="center">
 AI-Powered Customer Support Automation Platform
@@ -122,6 +122,7 @@ Support-Nexus/
 │   ├── architecture.png
 │   ├── tech-stack.png
 │   ├── workflow.png
+│   ├── demo.mp4
 │   └── ... (other project assets)
 │
 ├── 📄 Support Nexus.json
@@ -168,17 +169,7 @@ Run the workflows.
 
 🎬 **Project Demonstration**
 
-<video width="800" controls>
-  <source src="assets/Demo Video.mp4" type="video/mp4">
-</video>
-
----
-
-# 📄 Project Report
-
-The complete Capstone Project Report is available in the repository.
-
-📄 **docs/Project_Report.pdf**
+👉 [Click here to watch the demo](./assets/demo.mp4)
 
 ---
 
@@ -228,7 +219,5 @@ It motivates me to continue building and sharing more AI & Automation projects.
 <p align="center">
 
 ### 🚀 Building Smarter Customer Support with AI
-
-<img src="assets/logo.png" width="120">
 
 </p>
