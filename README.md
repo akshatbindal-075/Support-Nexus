@@ -111,28 +111,26 @@ The entire automation is implemented through **6 interconnected workflows** insi
 # 📂 Repository Structure
 
 ```text
+# 📂 Repository Structure
+
+```text
 Support-Nexus/
 │
-├── assets/
+├── 📁 assets/
 │   ├── banner.png
 │   ├── logo.png
 │   ├── architecture.png
 │   ├── tech-stack.png
-│   └── workflow.png
+│   ├── workflow.png
+│   └── ... (other project assets)
 │
-├── workflows/
-│   ├── Ticket Intake.json
-│   ├── My Tickets.json
-│   ├── SLA Monitoring.json
-│   ├── Close Ticket.json
-│   ├── Feedback Collection.json
-│   └── Daily Digest.json
+├── 📄 Support Nexus.json
 │
-├── docs/
-│   └── Project_Report.pdf
+├── 📄 docker-compose.yml
 │
-├── README.md
-└── LICENSE
+├── 📄 README.md
+│
+└── 📄 LICENSE
 ```
 
 ---
