@@ -1,21 +1,22 @@
-<p align="center">
-  <img src="assets/Banner.png" alt="Support Nexus Banner" width="100%">
-</p>
+<h1 align="center">
+  <img src="assets/logo.png" alt="Support Nexus Logo" width="50" align="center">
+  Support Nexus
+</h1>
 
 <h1 align="center"><img src="assets/logo.png" width="70"> Support Nexus</h1>
 
 <p align="center">
-AI-Powered Customer Support Automation Platform
+  <strong>AI-Powered Customer Support Automation Platform</strong>
 </p>
 
 <p align="center">
-
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B2C?style=for-the-badge&logo=n8n&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-Team%20Communication-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-Notifications-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B2C?style=for-the-badge&logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-Team%20Communication-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-Notifications-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
 ---
