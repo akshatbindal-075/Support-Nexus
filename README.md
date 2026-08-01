@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Support Nexus Banner" width="100%">
+  <img src="assets/Banner.png" alt="Support Nexus Banner" width="100%">
 </p>
 
 <h1 align="center">🎫 Support Nexus</h1>
@@ -48,7 +48,7 @@ Built using **n8n**, **Google Gemini**, **PostgreSQL**, **Slack**, **Gmail**, an
 # 🏗 System Architecture
 
 <p align="center">
-<img src="assets/architecture.png" width="95%">
+<img src="assets/Architecture.png" width="95%">
 </p>
 
 ---
@@ -142,7 +142,7 @@ Support-Nexus/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Support-Nexus.git
+git clone https://github.com/akshatbindal-075/Support-Nexus.git
 ```
 
 ```bash
@@ -170,11 +170,9 @@ Run the workflows.
 
 🎬 **Project Demonstration**
 
-> Add your YouTube demo link here
-
-```
-https://youtu.be/YOUR_VIDEO_LINK
-```
+<video width="800" controls>
+  <source src="assets/Demo Video.mp4" type="video/mp4">
+</video>
 
 ---
 
