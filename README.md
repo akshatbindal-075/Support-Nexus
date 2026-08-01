@@ -3,8 +3,6 @@
   Support Nexus
 </h1>
 
-<h1 align="center"><img src="assets/logo.png" width="70"> Support Nexus</h1>
-
 <p align="center">
   <strong>AI-Powered Customer Support Automation Platform</strong>
 </p>
