@@ -2,7 +2,7 @@
   <img src="assets/Banner.png" alt="Support Nexus Banner" width="100%">
 </p>
 
-<h1 align="center"><img src="assets/logo.png" width="120">Support Nexus</h1>
+<h1 align="center"><img src="assets/logo.png" width="70"> Support Nexus</h1>
 
 <p align="center">
 AI-Powered Customer Support Automation Platform
@@ -56,7 +56,7 @@ Built using **n8n**, **Google Gemini**, **PostgreSQL**, **Slack**, **Gmail**, an
 # ⚙️ Technology Stack
 
 <p align="center">
-<img src="assets/tech-stack.png" width="80%">
+<img src="assets/tech_stack.png" width="80%">
 </p>
 
 | Category | Technology |
