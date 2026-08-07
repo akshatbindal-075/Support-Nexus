@@ -1,10 +1,6 @@
 <p align="center"> <img src="./assets/Banner.png" alt="Support Nexus Banner" width="100%"> </p> <h1 align="center"> <img src="assets/logo.png" alt="Support Nexus Logo" width="50" align="center"> Support Nexus </h1>
 
 <p align="center">
-  <strong>Notwell : AI Clinical Documentation Assistant</strong>
-</p>
-
-<p align="center">
   <strong>AI-Powered Customer Support Automation Platform</strong>
 </p>
 
